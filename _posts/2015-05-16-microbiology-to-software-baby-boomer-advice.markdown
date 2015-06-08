@@ -2,7 +2,7 @@
 layout: post
 title:  "From Microbiology to Software Engineering & the Wisdom of a Baby Boomer"
 date:   2015-05-16 20:41:23
-categories: jekyll update
+categories: computer science advice university
 ---
 
 Anyone will tell you that their first year of university was simply a string of uncertainties, with the occasional (or regular) existential crisis. My first year at McGill as no exception.
@@ -13,7 +13,7 @@ By the first week of October, only a month into my university career, I had the 
 
 In fact, I'd already substituted the biology coursework from my upcoming semester with additional requirements for the McGill engineering program: an introductory computer science course and a linear algebra course.
 
-I remember the slight hesitation at registering for my first programming course. My father completed a B.Sc. in Computer Science in the 1980s and went on to teach at a local CEGEP (this is approximately the Quebecois equivalent of a community college). I'd been surrounded by computers and high-speed internet from an early age. (In fact, as I'd later confirm, my father had actually engineered some of his assignments such that they were entertaining computer game his toddler daughter at the time (me) would enjoy -- thus saving him quite a few hours of marking.)
+I remember the slight hesitation at registering for my first programming course. My father completed a bachelors in Computer Science in the 1980s and went on to teach at a local CEGEP (this is approximately the Quebecois equivalent of a community college). I'd been surrounded by computers and high-speed internet from an early age. (In fact, as I'd later confirm, my father had actually engineered some of his assignments such that they were entertaining computer game his toddler daughter at the time (me) would enjoy -- thus saving him quite a few hours of marking.)
 
 Although I was rather convinced I'd switch into the Faculty of Engineering for either chemical engineering or architecture, I wasn't confident at all in my ability to succeed in a programming course. Shortly following registration, I called my mom. In hindsight, it seems silly, but I told her not to breathe a word of the programming course to my father. I was afraid I'd disappoint him if I didn't enjoy it or struggled with the material. 
 

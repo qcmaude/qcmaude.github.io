@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Some Lost Opportunities"
+date:   2015-06-06 20:41:23
+categories: McGill university
+---
+
+As an undergraduate student, there are a whole bunch of opportunities around every corner. As an undergraduate student in computer science, there's a few categories that these can fall under:
+
++ Hackathons
++ Scholarships
++ Conferences
++ Internships
++ Clubs
++ Volunteering
+
+As someone who believes in trying just about anything once, I'd recommend you do the same with each category, especially since many of these translate directly into obtaining employment post-graduation. 
+
+###**Hackathons**
+
+Quite a few larger universities in both the U.S. and Canada now host annual (or biannual hackathons). Many of these are organized under the scope of [Major League Hacking](https://mlh.io), the official student hackathon league. Each semester, a schedule is posted with upwards of 30 schools hosting their own hackathon. If your school is hosting one, I'd suggest you attend it before traveling to another. If you enjoy the experience, try out some others! The hackathon game wasn't really my scene, but it was a favorite for quite a few of my good friends. 
+
+I attended [McHacks](http://mchacks.io) in its first year (2014) as a volunteer and then as a participant in its second year (2015). Perhaps had I taken easier courses or not taken on any teaching assistantships, I would have had the opportunity to attend a hackathon held at another university. 
+
+###**Scholarships**
+
+At the end of my third year, I started hearing about the Grace Hopper Conference; it seemed as though every woman in tech was going to be in Phoenix in October. After some snooping, I applied to two scholarships: the [Anita Borg Institute scholarship program](http://anitaborg.org/awards-grants/ghc-scholarship-grants/) and the [Facebook scholarship program](https://www.facebook.com/careers/program/gracehopper2015/). The results came in about two months later, and after having been awarded both, I opted to accept Facebook's offer. The scholarship recipients received paid registration for the conference, travel and lodging, including a pre-conference program in Phoenix with tech talks, mentoring sessions and networking events, and an additional meal stippend.
+
+There are about a million scholarships for women in computer science. Here are a few that are offered by large tech companies for undergraduate students: 
+
++ [Google Anita Borg Scholarship](http://www.google.com/anitaborg/)
++ [Palantir Scholarship for Women in Engineering](https://www.palantir.com/college/scholarship/)
++ [Microsoft Scholarship](http://careers.microsoft.com/careers/en/us/university-programs.aspx#tab_scholarship-program-qualifications)
++ [Apple WWDC Scholarship](https://developer.apple.com/wwdc/scholarships/)
+
+Some scholarships even come bundled with internships. Since my second year, I've gotten a string of emails from recruiters for the following programs: 
+
++ [Simons Fellowship](https://www.simonsfoundation.org/funding/funding-opportunities/mathematics-physical-sciences/simons-fellow-program/)
++ [Thiel Fellowship](http://www.thielfellowship.org)
+
+###**Conferences**
+
+Although related to scholarships, this is a category of its own. During my undergrad, I attended both the [Grace Hopper Celebration](http://gracehopper.org) and the [Canadian University Software Engineering Conference](http://2015.cusec.net) (both in my final year). Both were incredibly well organized and very welcoming to students. 
+
+####**GHC**
+
+The conference is great for networking, anyone looking for employment (there's a massive career fair), and exploring a variety of interests in a safe, supportive environment. I'd recommend every woman in tech go at least one year.
+
+####**CUSEC**
+
+CUSEC is a non-profit conference for students organized by students. Held in Montreal every year, it welcomes a range of speakers to talk about a whole slew of topics. This past year, my boss, [Camille Fournier](https://www.twitter.com/skamille/), was invited to give a talk on how to stay in love with programming. Other notable speakers included [Aaron Patterson](http://www.twitter.com/tenderlove/), [Julie Pagano](http://juliepagano.com/), [Sandi Metz](http://www.twitter.com/sandimetz/), and [Bruce Schneier](http://www.twitter.com/schneierblog/). If you're a Canadian university student, be on the lookout for CUSEC 2016 information and leave your calendar open for next January!
+
+###**Internships**
+
+During my undergrad, I completed two internships: one at [Schneider Electric](http://www.schneider-electric.com/ww/en/) between my second and third years, and one at [Rent the Runway](http://www.renttherunway.com) between my third and fourth years. 
+
+Schneider Electric had a very organized internship program considering its many offices around the globe and 100k+ employee count. It was a good first internship opportunity as I got acustomed to working with a team of experienced developers. 
+
+You can read more on my internship at Rent the Runway [here](http://dresscode.renttherunway.com/blog/a-post-internship-look-at-rtr).
+
+###**Clubs**
+
+At McGill there were two important groups in the computer science community: the [Computer Science Undergraduate Society](http://mcgill-csus.github.io), and [HackMcGill](http://hackmcgill.com), each with its own mission. The first represented all undergraduate computer science students in communications with the faculty, staff, and faculty as a whole. HackMcGill was responsible for building a network of hackers, and organizing McHacks & weekly tutorials. 
+
+I joined the CSUS in my final year as VP Academic. It was a great way to represent the student body in discourses with the computer science faculty and at the faculty level. I sat in on academic meetings with the faculty, spoke personally with a few professors about changing their syllabi, and connected with students by writing a [survival guide](http://mcgill-csus.github.io/content/compmajorguide.html) for the duration of their degree. 
+
+###**Volunteering**
+
+There are whole bunch of volunteering opportunities open to computer science students. Student groups across the university are always looking for a webmaster; local hackathons are always looking for manpower; there might even be a conferencein your area looking for help from university students. 
+
+During my third and part of my fourth years, I decided to volunteer with [Kids Code Jeunesse](http://www.kidscodejeunesse.org/en/home/), designing their HTML curriculum and going out and teaching to fifth and sixth graders in the downtown Montreal area once a week. My work with them translated into my honours thesis on developing a curriculum for the classroom and how it compares to online courses available to students of a similar age.
+
+###**Conclusion**
+
+Your university career is what you make it. Build a strong network here and you'll be in great shape once you leave campus. You'll only be an undergrad once (for most, at least), and there will be few other places with as many opportunities in such a small area; make the best of it!
+
