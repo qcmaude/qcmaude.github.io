@@ -2,10 +2,10 @@
 layout: post
 title:  "Some Lost Opportunities"
 date:   2015-06-06 20:41:23
-categories: McGill university
+categories: McGill university opportunities hackathons internships
 ---
 
-As an undergraduate student, there are a whole bunch of opportunities around every corner. As an undergraduate student in computer science, there's a few categories that these can fall under:
+As an undergrad, there're a whole bunch of opportunities around every corner. As an undergrad in computer science, there's a few categories that these can fall under:
 
 + Hackathons
 + Scholarships
@@ -69,6 +69,8 @@ I joined the CSUS in my final year as VP Academic. It was a great way to represe
 There are whole bunch of volunteering opportunities open to computer science students. Student groups across the university are always looking for a webmaster; local hackathons are always looking for manpower; there might even be a conferencein your area looking for help from university students. 
 
 During my third and part of my fourth years, I decided to volunteer with [Kids Code Jeunesse](http://www.kidscodejeunesse.org/en/home/), designing their HTML curriculum and going out and teaching to fifth and sixth graders in the downtown Montreal area once a week. My work with them translated into my honours thesis on developing a curriculum for the classroom and how it compares to online courses available to students of a similar age.
+
+I also helped out as a peer tutor.
 
 ###**Conclusion**
 

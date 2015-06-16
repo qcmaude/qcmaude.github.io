@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From Microbiology to Software Engineering & the Wisdom of a Baby Boomer"
+title:  "From Biology to Software & the Wisdom of a Baby Boomer"
 date:   2015-05-16 20:41:23
 categories: computer science advice university
 ---
