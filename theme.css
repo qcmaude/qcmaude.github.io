@@ -29,7 +29,7 @@ img {
 }
 
 .header {
-	height: 50px;
+	min-height: 50px;
 	line-height: 50px;
 	padding: 20px;
 	background-color: #222;
@@ -40,7 +40,7 @@ img {
 }
 
 .main-content {
-	width: 500px;
+	max-width: 500px;
 	margin: 0 auto;
 	padding: 20px;
 	min-height: 40%;
