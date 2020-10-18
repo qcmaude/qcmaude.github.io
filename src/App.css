@@ -195,7 +195,7 @@ a.nav-item:before {
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (min-width: 1024px) {
   .app {
     max-width: 100%;
   }
@@ -233,7 +233,7 @@ a.nav-item:before {
 }
 
 /* Tablet */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-width: 320px) and (max-width : 480px) {
   .app {
     max-width: 100%;
   }
@@ -275,7 +275,7 @@ a.nav-item:before {
   }
 }
 
-@media only screen and (device-width: 768px) and (orientation: portrait) {
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
   .main-content {
     font-size: 20px;
   }
