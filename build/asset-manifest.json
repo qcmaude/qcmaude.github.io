@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fc5fe3e.chunk.css",
+    "main.js": "/static/js/main.037e5224.chunk.js",
+    "main.js.map": "/static/js/main.037e5224.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e9cbc87.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e9cbc87.js.map",
+    "static/js/2.a337dc34.chunk.js": "/static/js/2.a337dc34.chunk.js",
+    "static/js/2.a337dc34.chunk.js.map": "/static/js/2.a337dc34.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e2010a40d993d8a697fa6515528233fe.js": "/precache-manifest.e2010a40d993d8a697fa6515528233fe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1fc5fe3e.chunk.css.map": "/static/css/main.1fc5fe3e.chunk.css.map",
+    "static/js/2.a337dc34.chunk.js.LICENSE.txt": "/static/js/2.a337dc34.chunk.js.LICENSE.txt",
+    "static/media/amazon.svg": "/static/media/amazon.cd84e287.svg",
+    "static/media/book.jpeg": "/static/media/book.c7a930d9.jpeg",
+    "static/media/github.svg": "/static/media/github.617870e4.svg",
+    "static/media/medium.svg": "/static/media/medium.5b6c39e9.svg",
+    "static/media/twitter.svg": "/static/media/twitter.be066898.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9cbc87.js",
+    "static/js/2.a337dc34.chunk.js",
+    "static/css/main.1fc5fe3e.chunk.css",
+    "static/js/main.037e5224.chunk.js"
+  ]
+}
